@@ -1,5 +1,8 @@
 div {
     background: rgb(128, 0, 0);
-    width: 10vw;
+    width: 100vw;
     height: 10vh;
+    padding: 1rem;
+    color: antiquewhite;
+    text-align: center;
 }
